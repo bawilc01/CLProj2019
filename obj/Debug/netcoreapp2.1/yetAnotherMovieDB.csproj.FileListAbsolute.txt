@@ -1,0 +1,11 @@
+C:\Users\Brittney\source\repos\yetAnotherMovieDB\yetAnotherMovieDB\bin\Debug\netcoreapp2.1\yetAnotherMovieDB.deps.json
+C:\Users\Brittney\source\repos\yetAnotherMovieDB\yetAnotherMovieDB\bin\Debug\netcoreapp2.1\yetAnotherMovieDB.runtimeconfig.json
+C:\Users\Brittney\source\repos\yetAnotherMovieDB\yetAnotherMovieDB\bin\Debug\netcoreapp2.1\yetAnotherMovieDB.runtimeconfig.dev.json
+C:\Users\Brittney\source\repos\yetAnotherMovieDB\yetAnotherMovieDB\bin\Debug\netcoreapp2.1\yetAnotherMovieDB.dll
+C:\Users\Brittney\source\repos\yetAnotherMovieDB\yetAnotherMovieDB\obj\Debug\netcoreapp2.1\yetAnotherMovieDB.csprojAssemblyReference.cache
+C:\Users\Brittney\source\repos\yetAnotherMovieDB\yetAnotherMovieDB\obj\Debug\netcoreapp2.1\yetAnotherMovieDB.csproj.CoreCompileInputs.cache
+C:\Users\Brittney\source\repos\yetAnotherMovieDB\yetAnotherMovieDB\obj\Debug\netcoreapp2.1\yetAnotherMovieDB.AssemblyInfoInputs.cache
+C:\Users\Brittney\source\repos\yetAnotherMovieDB\yetAnotherMovieDB\obj\Debug\netcoreapp2.1\yetAnotherMovieDB.AssemblyInfo.cs
+C:\Users\Brittney\source\repos\yetAnotherMovieDB\yetAnotherMovieDB\bin\Debug\netcoreapp2.1\yetAnotherMovieDB.pdb
+C:\Users\Brittney\source\repos\yetAnotherMovieDB\yetAnotherMovieDB\obj\Debug\netcoreapp2.1\yetAnotherMovieDB.dll
+C:\Users\Brittney\source\repos\yetAnotherMovieDB\yetAnotherMovieDB\obj\Debug\netcoreapp2.1\yetAnotherMovieDB.pdb
