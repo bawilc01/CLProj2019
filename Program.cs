@@ -27,6 +27,10 @@ namespace yetAnotherMovieDB
             movieCopies = Console.ReadLine();
 
             //convert movieCopies from string to int and return answer depending on number of copies owned
+            // Create a list  
+            List<string> movieList = new List<string>();
+
+            
 
             int copies = movie.NumOfCopies;
             if (!Int32.TryParse(movieCopies, out copies))
@@ -50,23 +54,20 @@ namespace yetAnotherMovieDB
                 Console.WriteLine(copies + " copies of " + movie.Title + " of type " + movie.MovieType + " has been added to your database.");
             }
 
-            // Create a list  
-            List<string> movieList = new List<string>();
-
             // Add items using Add method   
             movieList.Add(movie.Title + ", " + movie.MovieType + ", " + copies.ToString());
 
-
+            // Show items in list
             foreach (string movieItem in movieList)
-            { 
+            {
                 Console.WriteLine(movieItem);
             }
 
             Console.ReadKey();
-         
+
 
         }
-        
+
 
     }
 }
